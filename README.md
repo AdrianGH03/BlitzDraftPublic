@@ -6,7 +6,6 @@ BlitzDraft is an engaging League of Legends drafting simulator that brings the e
 - **Real Esports Experience:** Experience the thrill of drafting like the pros with real-time picks and bans from top-tier LoL esports matches.
 - **Comprehensive Guides:** Whether you're a newcomer or a seasoned player, BlitzDraft offers tutorials, guides, and a dedicated help page to help you master the game.
 - **Fullstack Implementation:** Built with Vite + React for the frontend and Node.js Express for the backend, BlitzDraft ensures a seamless user experience.
-- **Robust Security:** Extensive security measures are in place to safeguard against abuse, ensuring a fair and enjoyable experience for all users.
 - **Integration with Leaguepedia API:** Utilizing Leaguepedia's API, BlitzDraft fetches esports games, pick and bans, teams, players, and more, providing up-to-date information for an authentic experience.
 
 ### **Technologies Used:**
