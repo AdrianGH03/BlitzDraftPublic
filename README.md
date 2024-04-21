@@ -19,6 +19,7 @@ Since its launch, BlitzDraft has garnered over 3,500 page visits and has receive
 
 ### **Get Started:**
 LINK : REDACTED FOR NOW DUE TO BANDWITH USAGE ISSUES
+Repo is private for privacy concerns. Ask me for permission if you need to see it.
 
 ![image](https://github.com/MiguelGGithub/BlitzDraftPublic/assets/122931039/1542faa2-e970-4e70-a235-1f25104f04db)
 
