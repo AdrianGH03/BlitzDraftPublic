@@ -1,6 +1,6 @@
 ## **BlitzDraft - League of Legends Drafting Simulator**
 
-BlitzDraft is an engaging League of Legends drafting simulator that brings the excitement of esports drafts to your fingertips. It taps into the top four regions of LoL esports - LCK, LPL, LEC, and LCS, allowing players to immerse themselves in the strategic world of pick and ban phases.
+BlitzDraft is an engaging League of Legends drafting simulator that brings the excitement of esports drafts to your fingertips. It taps into the top regions and tournaments of LoL esports - LCK, LPL, LEC, LLA, CBLOL, VCS, PCS, MSI, WORLDS, and LCS, allowing players to immerse themselves in the strategic world of pick and ban phases.
 
 ### **Key Features:**
 - **Real Esports Experience:** Experience the thrill of drafting like the pros with real-time picks and bans from top-tier LoL esports matches.
@@ -12,10 +12,10 @@ BlitzDraft is an engaging League of Legends drafting simulator that brings the e
 - **Frontend:** JavaScript, React, HTML, CSS, Vite
 - **Backend:** JavaScript, Node.js, Express
 - **Database:** MongoDB
-- **Deployment:** Vercel
+- **Deployment:** Vercel, Cloudflare
 
 ### **User Reception:**
-Since its launch, BlitzDraft has garnered over 3,500 page visits and has received positive feedback from users. We've actively listened to user suggestions and implemented improvements to enhance the overall quality of the app.
+Since its launch, BlitzDraft has garnered over 500 and has received positive feedback from users. I've actively listened to user suggestions and implemented improvements to enhance the overall quality of the app.
 
 ### **Get Started:**
 LINK: https://blitzdraftlol.com
