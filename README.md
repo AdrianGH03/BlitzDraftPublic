@@ -18,8 +18,7 @@ BlitzDraft is an engaging League of Legends drafting simulator that brings the e
 Since its launch, BlitzDraft has garnered over 3,500 page visits and has received positive feedback from users. We've actively listened to user suggestions and implemented improvements to enhance the overall quality of the app.
 
 ### **Get Started:**
-LINK : REDACTED FOR NOW DUE TO BANDWITH USAGE ISSUES
-Repo is private for privacy concerns. Ask me for permission if you need to see it.
+LINK: https://blitzdraftlol.com
 
 
 ![ss1](https://github.com/MiguelGGithub/BlitzDraftPublic/assets/122931039/9d4bfa32-c4b3-4adc-8f9c-ac4d156dd6e0)
