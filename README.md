@@ -15,7 +15,7 @@ BlitzDraft is an engaging League of Legends drafting simulator that brings the e
 - **Deployment:** Vercel, Cloudflare
 
 ### **User Reception:**
-Since its launch, BlitzDraft has garnered over 500 and has received positive feedback from users. I've actively listened to user suggestions and implemented improvements to enhance the overall quality of the app.
+Since its launch, BlitzDraft has garnered over 500+ games made and has received positive feedback from users. I've actively listened to user suggestions and implemented improvements to enhance the overall quality of the app.
 
 ### **Get Started:**
 LINK: https://blitzdraftlol.com
